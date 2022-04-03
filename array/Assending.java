@@ -2,7 +2,7 @@ package com.onebill.array;
 
 import java.util.*;
 
-public class Assending {
+public class Assending  {
 
 	public static void main(String[] args) {
 
